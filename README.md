@@ -1,4 +1,7 @@
 # ANIE
+
+🤖 **Built by the makers of [Agent!](https://github.com/AgentiLoop/Agent)**, an autonomous macOS agent.
+
  Artificial Neural Intelligence Engine
 
 [![Swift 6](https://img.shields.io/badge/Swift-6.1-orange.svg)](https://swift.org)
